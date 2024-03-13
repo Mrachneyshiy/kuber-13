@@ -35,7 +35,9 @@
 ![](pic/5.png)
 
 [Frontend](main/frontend.yaml) 
+
 [Backend](main/backend.yaml)
+
 [Cache](main/cache.yaml)
 
 ### Ответ на пункт 4:
@@ -44,14 +46,20 @@
 ![](pic/7.png)
 ![](pic/8.png)
 
+[np-1](main/np-1.yaml)
+
+[np-2](main/np-1.yaml)
+
+[np-3](main/np-1.yaml)
+
 ### Ответ на пункт 5:
 
-- 1. frontend -> backend 
-- 2. frontend x cache
-- 3. backend x frontend
-- 4. cache x frontend 
-- 5. backend -> cache
-- 6. cache x backend 
+- frontend -> backend 
+- frontend x cache
+- backend x frontend
+- cache x frontend 
+- backend -> cache
+- cache x backend 
 
 ![](pic/9.png)
 ![](pic/10.png)
